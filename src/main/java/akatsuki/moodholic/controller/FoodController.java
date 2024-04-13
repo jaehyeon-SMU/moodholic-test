@@ -17,7 +17,7 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/category/food")
-@Tag(name = "음식 조회 컨트롤러", description = "추천받은 음식을 조회하는 기능")
+@Tag(name = "음식 조회 컨트롤러", description = "추천 받은 음식을 조회하는 기능")
 public class FoodController {
 
 
