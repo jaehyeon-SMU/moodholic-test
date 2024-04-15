@@ -22,7 +22,7 @@ class CalendarFacadeServiceTest {
     long memberId;
 
     @Test
-    @DisplayName("멤버의 달력 리스트 출력")
+    @DisplayName("멤버의 달력 리스트 출력!")
     void getCalendar(){
         /*given*/
         memberId=1;
